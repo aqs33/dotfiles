@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = attialod@gmail.com
+	name = amine karri
